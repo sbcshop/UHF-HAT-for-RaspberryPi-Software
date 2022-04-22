@@ -13,21 +13,21 @@
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
 
 **Step 1 - Open the software, Connect UHF HAT To computer via micro usb cable, then click on refresh button to refresh the serial port**
-        <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img.JPG" />
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img.JPG" />
 
 **Step 2 - Then click next or skip button**
-         <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img1.JPG" />
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img1.JPG" />
 
 **Step 3 - Then select the baudrate**
-         <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img2.JPG" />
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img2.JPG" />
         
-**Step 3 - Connect**
-         <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img3.JPG" />
-         <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img4.JPG" />
+**Step 4 - Connect**
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img3.JPG" />
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img4.JPG" />
          
-**Step 3 - Select your region and anteena and go to read**
-         <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img6.JPG" />
+**Step 5 - Select your region and anteena and go to read**
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img6.JPG" />
          
-**Step 3 - Now it start read the cards**
+**Step 6 - Now it start read the cards**
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img7.JPG" />
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img8.JPG" />
