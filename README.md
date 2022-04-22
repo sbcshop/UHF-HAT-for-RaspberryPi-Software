@@ -10,7 +10,7 @@
 ## Run Using Python (Raspberry Pi)
 Install Mercury API, for this you need to download below repository
 
-https://github.com/gotthardp/python-mercuryapi
+git clone https://github.com/gotthardp/python-mercuryapi
 
 ## Run Using Universal Assistant
 **Download Universal Assistant Software From Below Link : And Install The Software**
