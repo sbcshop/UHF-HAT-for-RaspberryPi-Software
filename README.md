@@ -13,7 +13,7 @@ Install Mercury API, for this you need to download below repository
 https://github.com/gotthardp/python-mercuryapi
 
 ## Run Using Universal Assistant
-**Download Universal Assistant Software From Below Link : And Install The Software**
+**Download Universal Assistant Software From Below Link, And Install The Software**
 
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
 
