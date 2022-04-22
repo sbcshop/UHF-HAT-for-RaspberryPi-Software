@@ -8,8 +8,9 @@
 
 
 ## Run Using Universal Assistant
-**Download Universal Assistant Software From Below Link :**
+**Download Universal Assistant Software From Below Link : And Install The Software**
 
 https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Assistant
 
-Step 1- 
+Step 1- Open The Software, Then Click On Refresh
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img.JPG" />
