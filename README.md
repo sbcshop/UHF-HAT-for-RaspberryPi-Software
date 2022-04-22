@@ -23,5 +23,4 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
         
 **Step 3 - Connect**
          <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img3.JPG" />
-         
          <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img4.JPG" />
