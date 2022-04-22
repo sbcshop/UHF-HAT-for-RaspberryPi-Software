@@ -25,5 +25,5 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
          <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img3.JPG" />
          <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img4.JPG" />
          
-**Step 3 - Select your region and anteena**
+**Step 3 - Select your region and anteena and go to connect**
          <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img6.JPG" />
