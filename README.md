@@ -14,3 +14,5 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 
 Step 1- Open the software, Connect UHF HAT To computer via micro usb cable, then click on refresh button to refresh the serial port
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img.JPG" />
+
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img1.JPG" />
