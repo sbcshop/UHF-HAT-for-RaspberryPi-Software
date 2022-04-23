@@ -16,7 +16,7 @@ image2 = Image.new("RGB", (disp.width, disp.height), "lightblue")
 
 
 
-image = Image.open('pic/sb.jpg')	
+image = Image.open('images/sb.jpg')	
 disp.Display_image(image)
 
 
