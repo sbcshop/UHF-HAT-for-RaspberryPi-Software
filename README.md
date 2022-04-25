@@ -11,6 +11,8 @@
 Install Mercury API, for this you need to download below repository
 https://github.com/gotthardp/python-mercuryapi
 
+#### Install necessary library
+ ```pip install Pillow ```
 #### make sure jumper wire is sort between RX-TX0 and TX-RX1
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.jpg" />
 
