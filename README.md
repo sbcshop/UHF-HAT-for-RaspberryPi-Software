@@ -12,7 +12,7 @@ Install Mercury API, for this you need to download below repository
 https://github.com/gotthardp/python-mercuryapi
 
 
-<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.JPG" />
+<img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.jpg" />
 
 ## Run Using Universal Assistant
 **Download Universal Assistant Software From Below Link, And Install The Software**
