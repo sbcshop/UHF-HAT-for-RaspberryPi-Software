@@ -7,6 +7,8 @@
 
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img5.png" />
 
+## Further information about M6E-NANO, we attach datasheet of M6E-NANO
+
 ## Run Using Python (Raspberry Pi)
 Install Mercury API, for this you need to download below repository
 https://github.com/gotthardp/python-mercuryapi
