@@ -45,3 +45,6 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 **Step 6 - Now it start read the cards**
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img7.JPG" />
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img8.JPG" />
+
+## Code 
+Make sure before run applications inside application folder, copy all the application files outside the folder then run the file
