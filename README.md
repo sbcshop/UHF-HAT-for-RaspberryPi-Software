@@ -46,5 +46,6 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img7.JPG" />
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img8.JPG" />
 
+## Buzzer is connected to GPIO 17 Pin of raspberry pi
 ## Code 
 Make sure before run applications inside application folder, copy all the application files outside the folder then run the file
