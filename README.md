@@ -56,5 +56,5 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
  * library_management.py - run this file to do library management
  * smart_shopping.py - run this file to do smart shopping
 
-## Youtube link :
+## Youtube
 https://www.youtube.com/watch?v=vQsGz0Gdf00&t=9s
