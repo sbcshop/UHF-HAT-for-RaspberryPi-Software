@@ -51,3 +51,7 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 
 ## Code 
 ### Make sure before run applications inside application folder, copy all the application files outside the folder then run the file
+#### Inside application folder, there are three files 
+ * attendance.py  - run this file to apply attendance 
+ * library_management.py - run this file to do library management
+ * smart_shopping.py - run this file to do smart shopping
