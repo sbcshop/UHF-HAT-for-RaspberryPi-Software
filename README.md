@@ -28,7 +28,7 @@ https://github.com/gotthardp/python-mercuryapi
 
 Give permission to all files
 
-```sudo chmode 777*```
+```sudo chmod 777 *```
 
 ```make```
 
