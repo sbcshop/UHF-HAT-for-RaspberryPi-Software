@@ -9,7 +9,7 @@
 
 ## Further information about M6E-NANO, we attach datasheet of M6E-NANO
 
-## Run Using Python (Raspberry Pi)
+## Run Using Python (Raspberry Pi) Run below command one by one
 First, make sure you have the required packages
 
  ```pip install Pillow ```
