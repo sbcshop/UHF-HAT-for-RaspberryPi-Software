@@ -12,6 +12,8 @@
 ## Run Using Python (Raspberry Pi)
 First, make sure you have the required packages
 
+ ```pip install Pillow ```
+
 ```sudo apt-get install unzip patch xsltproc gcc libreadline-dev python-dev python-setuptools```
 
 Install Mercury API, for this you need to download below repository
@@ -40,14 +42,6 @@ which is a shortcut to running
 
 ```sudo python setup.py build install```
 
-
-
-
-
-
-
-#### Install necessary library
- ```pip install Pillow ```
 #### make sure jumper wire is sort between RX-TX0 and TX-RX1
 <img src = "https://github.com/sbcshop/UHF-HAT-for-RaspberryPi/blob/main/images/img10.jpg" />
 
