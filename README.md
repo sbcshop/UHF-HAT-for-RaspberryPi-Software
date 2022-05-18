@@ -78,8 +78,8 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 ## Buzzer is connected to GPIO 17 Pin of raspberry pi
 
 ## Code (raspberry pi)
-### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
 **scan_cards.py** - To scan cards, run this code
+### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
 #### Inside application folder, there are three files 
  * attendance.py  - run this file to apply attendance 
  * library_management.py - run this file to do library management
