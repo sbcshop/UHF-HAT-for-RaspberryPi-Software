@@ -10,9 +10,11 @@
 ## Further information about M6E-NANO, we attach datasheet of M6E-NANO
 
 ## Run Using Python (Raspberry Pi)
-Install Mercury API, for this you need to download below repository
+First, make sure you have the required packages
 
 ```sudo apt-get install unzip patch xsltproc gcc libreadline-dev python-dev python-setuptools```
+
+Install Mercury API, for this you need to download below repository
 
 https://github.com/gotthardp/python-mercuryapi
 
