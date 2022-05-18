@@ -12,7 +12,10 @@
 ## Run Using Python (Raspberry Pi)
 Install Mercury API, for this you need to download below repository
 
+```sudo apt-get install unzip patch xsltproc gcc libreadline-dev python-dev python-setuptools```
+
 https://github.com/gotthardp/python-mercuryapi
+
  or 
  
 ```git clone https://github.com/gotthardp/python-mercuryapi.git```
@@ -22,6 +25,21 @@ https://github.com/gotthardp/python-mercuryapi
 ```sudo chmode 777*```
 
 ```make```
+
+The make command will automatically determine which Python version is installed. If both 2.x and 3.x are installed, the 3.x takes precedence. To build and install 2.x you need to explicitly specify the Python interpreter to use:
+
+```sudo make PYTHON=python```
+
+Then, install the module by running
+
+```sudo make install```
+
+which is a shortcut to running
+
+```sudo python setup.py build install```
+
+
+
 
 
 
