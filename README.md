@@ -13,6 +13,18 @@
 Install Mercury API, for this you need to download below repository
 
 https://github.com/gotthardp/python-mercuryapi
+ or 
+ 
+```git clone https://github.com/gotthardp/python-mercuryapi.git```
+
+```cd python-mercuryapi```
+
+```sudo chmode 777*```
+
+```make```
+
+
+
 
 #### Install necessary library
  ```pip install Pillow ```
