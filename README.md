@@ -78,7 +78,11 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 ## Buzzer is connected to GPIO 17 Pin of raspberry pi
 
 ## Code (raspberry pi)
-**scan_cards.py** - To scan cards, run this code
+
+To scan cards, run below file
+
+**```scan_cards.py```**  
+
 
 To know the temperature of module (UHF HAT), Run below file 
 
