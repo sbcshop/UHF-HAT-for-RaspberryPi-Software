@@ -88,6 +88,10 @@ To know the temperature of module (UHF HAT), Run below file
 
 **```read_temp.py```**
 
+To write uhf tag or change tag id, run below file
+
+**```tag_write.py```**
+
 ### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
 #### Inside application folder, there are three files 
  * attendance.py  - run this file to apply attendance 
