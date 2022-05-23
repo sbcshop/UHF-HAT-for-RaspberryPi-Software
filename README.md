@@ -83,7 +83,6 @@ To scan cards, run below file
 
 **```scan_cards.py```**  
 
-
 To know the temperature of module (UHF HAT), Run below file 
 
 **```read_temp.py```**
@@ -91,6 +90,10 @@ To know the temperature of module (UHF HAT), Run below file
 To write uhf tag or change tag id, run below file
 
 **```tag_write.py```**
+
+To read read basic Perameters like anteena, power etc, run below file 
+
+**```read_basic_Perameters.py```**
 
 ### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
 #### Inside application folder, there are three files 
