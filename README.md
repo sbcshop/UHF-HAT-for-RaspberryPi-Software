@@ -79,8 +79,10 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 
 ## Code (raspberry pi)
 **scan_cards.py** - To scan cards, run this code
+
 To know the temperature of module (UHF HAT), Run below file 
-```read_temp.py```
+
+**```read_temp.py```**
 
 ### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
 #### Inside application folder, there are three files 
