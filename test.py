@@ -1,4 +1,7 @@
 import mercury
+import time
+
+time.sleep(2)
 reader = mercury.Reader("tmr:///dev/ttyS0")
 
 reader.set_region("EU3")
