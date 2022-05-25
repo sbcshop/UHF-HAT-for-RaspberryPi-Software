@@ -95,6 +95,10 @@ To read read basic Perameters like anteena, power etc, run below file
 
 **```read_basic_Perameters.py```**
 
+Control onboard GPIO pins of UHF HAT
+
+**```control_gpio_pins.py```**
+
 ### Make sure before run applications which is inside application folder, copy all the application files outside the folder then run the file
 #### Inside application folder, there are three files 
  * attendance.py  - run this file to apply attendance 
