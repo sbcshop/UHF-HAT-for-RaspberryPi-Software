@@ -111,3 +111,7 @@ Control onboard GPIO pins of UHF HAT
 
 ## Youtube
 https://www.youtube.com/watch?v=vQsGz0Gdf00&t=9s
+
+## Getting started video
+
+https://www.youtube.com/watch?v=saSQZn1sG-Y&ab_channel=SBComponentsLtd
