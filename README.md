@@ -9,7 +9,11 @@
 
 ## Further information about M6E-NANO, we attach datasheet of M6E-NANO
 
-## Enable Serial Port for this type ```sudo raspi-config``` in command promt, then go to Interface Options -> Serial Port - > Would you like a login shell to be accessible over ? type "**No**" then Would you like the serial port hardware to be enabled? type "**Yes**"
+## Enable Serial Port for this type 
+
+```sudo raspi-config``` 
+
+in command promt, then go to Interface Options -> Serial Port - > Would you like a login shell to be accessible over ? type "**No**" then Would you like the serial port hardware to be enabled? type "**Yes**"
          
 
 ## Run Using Python (Raspberry Pi) Run below command one by one
