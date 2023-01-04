@@ -121,7 +121,7 @@ https://www.youtube.com/watch?v=saSQZn1sG-Y&ab_channel=SBComponentsLtd
 
 ## Documentation
 
-* [PiTalk-4G HAT Hardware](https://github.com/sbcshop/Pitalk_4G_HAT_Hardware)
+* [UHF HAT For RaspberryPi Hardware](https://github.com/sbcshop/UHF-HAT-for-RaspberryPi-Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
