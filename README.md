@@ -83,7 +83,8 @@ https://www.jadaktech.com/resources/all-document-libraries/#Universal_Reader_Ass
 
 ## Buzzer is connected to GPIO 17 Pin of raspberry pi
 
-## Code (raspberry pi)
+## Example codes (raspberry pi) 
+open Exmples directory for testing all other functionalities of UHF HAT. The names of code files and thier functions are mentioned below:
 
 To scan cards, run below file
 
