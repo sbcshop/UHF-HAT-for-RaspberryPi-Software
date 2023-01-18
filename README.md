@@ -97,7 +97,7 @@ To write uhf tag or change tag id, run below file
 
 **```tag_write.py```**
 
-To read read basic Perameters like anteena, power etc, run below file 
+To read read basic Perameters like antinna, power etc, run below file 
 
 **```read_basic_Perameters.py```**
 
